@@ -1,4 +1,5 @@
-Olá! 
+Olá, meu nome é Nuria e sou estudante de análise e desenvolvimento de sistemas. Desde pequena sempre fui apaixonada por tecnologia e hoje estou focada em aprimorar minhas habilidades como desenvolvedora front-end. Estou sempre em busca de novos desafios e projetos que me permitam aplicar meus conhecimentos e crescer profissionalmente. 
+No momento, estou me dedicando ao estudo de linguagens como HTML, CSS e JavaScript, e estou ansiosa para aprender ainda mais e contribuir para projetos inovadores. 
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nuriatoledo1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toledo.nuria) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuria-toledo-martins-94a69b240/) 
 
